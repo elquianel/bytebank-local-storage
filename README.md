@@ -15,3 +15,6 @@ flutter run
 ### Cache cleaning
 
 flutter clean
+
+
+### Observations
